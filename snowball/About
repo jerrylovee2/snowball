@@ -1,0 +1,11 @@
+This Ransomeware with python code that encrypt a specific file inorder to form a encrypted file which is decrypted or unencrypt by only a specific key , This project is based
+on the fernet encryption 
+
+
+*-------------*Files*------------* 
+
+Encrypt File
+Decrypt File
+Key File
+
+
